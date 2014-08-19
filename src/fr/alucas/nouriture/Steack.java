@@ -1,0 +1,10 @@
+package fr.alucas.nouriture;
+
+/**
+ * Created by INTI0221 on 05/08/2014.
+ */
+public class Steack implements IViande {
+    public String toString() {
+        return "steak";
+    }
+}
